@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">SFRPG</string>
+    <string name="class_picker_title">Pick a class</string>
+    <string-array name="class_pick_list">
+        <item>Tactical</item>
+        <item>Engineering</item>
+        <item>Science</item>
+    </string-array>
+    <string name="chosen_class"></string>
+    <string name="hp_amount"></string>
+    <string name="class_tactics">Tactics</string>
+    <string name="class_engineering">Engineering</string>
+    <string name="class_science">Science</string>
+    <string name="error_massage">Ehm...</string>
+    <string name="fight_alert">You have encountered a hostile Romulan ship!
+        You managed to kill it, but have suffered 15 damage as a result!
+    </string>
+    <string name="visit_planet">
+        You visit a nice-looking M-class planet and rest for a week. It\'s no Rysa,
+        but it\'ll do. You recover 10HP.
+    </string>
+    <string name="talk_to_npc">
+        You come across a Vulcan ship. You exchange scientific findings, and
+        continue on your way.
+    </string>
+    <string name="visit_rep_station">
+        You visit a repair station and fully repair your ship.
+    </string>
+    <string name="pick_up_dps_boost">
+        You found some Dilithium crystals and boost your phasers for a while.
+    </string>
+</resources>
